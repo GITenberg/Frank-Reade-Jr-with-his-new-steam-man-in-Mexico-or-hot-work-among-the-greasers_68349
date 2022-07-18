@@ -1,5 +1,8 @@
 _repo: Frank-Reade-Jr-with-his-new-steam-man-in-Mexico-or-hot-work-among-the-greasers_68349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68349-h/images/cover.jpg
 creator:
   author:
     agent_name: Senarens, Luis
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36301
     wikipedia: https://en.wikipedia.org/wiki/Luis_Senarens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68349#Frank-Reade-Jr-with-his-new-steam-man-in-Mexico-or-hot-work-among-the-greasers
 gutenberg_issued: '2022-06-19'
 identifiers:
   gutenberg: '68349'
